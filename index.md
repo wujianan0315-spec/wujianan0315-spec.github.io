@@ -1,3 +1,3 @@
-# Jianan Wu's Portfolio
+# Jianan's Portfolio
 
 Welcome! Work in progress.
