@@ -1,0 +1,7 @@
+ipykernal
+pandas
+plotly
+
+# needed for plotly
+nbformat
+statsmodels
