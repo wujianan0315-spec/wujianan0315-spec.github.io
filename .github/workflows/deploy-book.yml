@@ -47,6 +47,13 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build .
+    
+    - name: List build directory
+      run: |
+        echo "List _build:"
+        ls _build || echo "_build does not exist"
+        echo "List _build/html:"
+        ls _build/html || echo "_build/html does not exist"
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
