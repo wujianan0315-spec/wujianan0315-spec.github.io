@@ -1,4 +1,3 @@
-jupyter-book
 ipykernel
 pandas
 plotly
@@ -6,3 +5,5 @@ plotly
 # needed for plotly
 nbformat
 statsmodels
+
+jupyter-book==1.*
