@@ -1,0 +1,277 @@
+"year","borough","neighborhood","hiv_rate"
+2016,"Bronx","Crotona - Tremont",42.8266666666667
+2016,"Bronx","Fordham - Bronx Park",35.28
+2016,"Bronx","High Bridge - Morrisania",42.46
+2016,"Bronx","Hunts Point - Mott Haven",73.6
+2016,"Bronx","Kingsbridge - Riverdale",20.1
+2016,"Bronx","Northeast Bronx",12.9333333333333
+2016,"Bronx","Pelham - Throgs Neck",34.48
+2016,"Brooklyn","Bedford Stuyvesant - Crown Heights",62.1266666666667
+2016,"Brooklyn","Bensonhurst - Bay Ridge",15.8066666666667
+2016,"Brooklyn","Borough Park",10.4266666666667
+2016,"Brooklyn","Canarsie - Flatlands",11.84
+2016,"Brooklyn","Coney Island - Sheepshead Bay",15.2333333333333
+2016,"Brooklyn","Downtown - Heights - Park Slope",16.8266666666667
+2016,"Brooklyn","East Flatbush - Flatbush",27.6266666666667
+2016,"Brooklyn","East New York",45.6266666666667
+2016,"Brooklyn","Greenpoint",14.24
+2016,"Brooklyn","Sunset Park",38.3333333333333
+2016,"Brooklyn","Williamsburg - Bushwick",31.3733333333333
+2016,"Manhattan","Central Harlem - Morningside Heights",48.0666666666667
+2016,"Manhattan","Chelsea - Clinton",68.6266666666667
+2016,"Manhattan","East Harlem",55.62
+2016,"Manhattan","Gramercy Park - Murray Hill",28.0733333333333
+2016,"Manhattan","Greenwich Village - SoHo",83.2466666666667
+2016,"Manhattan","Lower Manhattan",27.2
+2016,"Manhattan","Union Square - Lower East Side",29.1866666666667
+2016,"Manhattan","Upper East Side",23.0333333333333
+2016,"Manhattan","Upper West Side",14.4066666666667
+2016,"Manhattan","Washington Heights - Inwood",28.0733333333333
+2016,"Queens","Bayside - Little Neck",2.53333333333333
+2016,"Queens","Flushing - Clearview",22.04
+2016,"Queens","Fresh Meadows",7.27333333333333
+2016,"Queens","Jamaica",13.8333333333333
+2016,"Queens","Long Island City - Astoria",28.86
+2016,"Queens","Ridgewood - Forest Hills",39.04
+2016,"Queens","Rockaway",10.4666666666667
+2016,"Queens","Southeast Queens",14.1933333333333
+2016,"Queens","Southwest Queens",16.16
+2016,"Queens","West Queens",25.6
+2016,"Staten
+Island","Port Richmond",32.35
+2016,"Staten
+Island","South Beach - Tottenville",75.9933333333333
+2016,"Staten
+Island","Stapleton - St. George",22.0266666666667
+2016,"Staten
+Island","Willowbrook",52.0933333333333
+2017,"Bronx","Crotona - Tremont",52.7933333333333
+2017,"Bronx","Fordham - Bronx Park",27.2066666666667
+2017,"Bronx","High Bridge - Morrisania",37.9133333333333
+2017,"Bronx","Hunts Point - Mott Haven",36.0666666666667
+2017,"Bronx","Kingsbridge - Riverdale",13.32
+2017,"Bronx","Northeast Bronx",16.1666666666667
+2017,"Bronx","Pelham - Throgs Neck",20.5
+2017,"Brooklyn","Bedford Stuyvesant - Crown Heights",51.58
+2017,"Brooklyn","Bensonhurst - Bay Ridge",27.4
+2017,"Brooklyn","Borough Park",13.4666666666667
+2017,"Brooklyn","Canarsie - Flatlands",11.0533333333333
+2017,"Brooklyn","Coney Island - Sheepshead Bay",19.1066666666667
+2017,"Brooklyn","Downtown - Heights - Park Slope",24.8733333333333
+2017,"Brooklyn","East Flatbush - Flatbush",27.0733333333333
+2017,"Brooklyn","East New York",45.88
+2017,"Brooklyn","Greenpoint",31.8133333333333
+2017,"Brooklyn","Sunset Park",73.9133333333333
+2017,"Brooklyn","Williamsburg - Bushwick",35.1866666666667
+2017,"Manhattan","Central Harlem - Morningside Heights",36.9533333333333
+2017,"Manhattan","Chelsea - Clinton",67.3533333333333
+2017,"Manhattan","East Harlem",49.5333333333333
+2017,"Manhattan","Gramercy Park - Murray Hill",28.0466666666667
+2017,"Manhattan","Greenwich Village - SoHo",66.9066666666667
+2017,"Manhattan","Lower Manhattan",58.8466666666667
+2017,"Manhattan","Union Square - Lower East Side",26.14
+2017,"Manhattan","Upper East Side",15.6533333333333
+2017,"Manhattan","Upper West Side",14.5266666666667
+2017,"Manhattan","Washington Heights - Inwood",49.1866666666667
+2017,"Queens","Bayside - Little Neck",14.1666666666667
+2017,"Queens","Flushing - Clearview",19.5933333333333
+2017,"Queens","Fresh Meadows",11.0933333333333
+2017,"Queens","Jamaica",22.0066666666667
+2017,"Queens","Long Island City - Astoria",40.8266666666667
+2017,"Queens","Ridgewood - Forest Hills",10.22
+2017,"Queens","Rockaway",14.48
+2017,"Queens","Southeast Queens",12.6266666666667
+2017,"Queens","Southwest Queens",20.1
+2017,"Queens","West Queens",21.6
+2017,"Staten
+Island","Port Richmond",17.6266666666667
+2017,"Staten
+Island","South Beach - Tottenville",1.58
+2017,"Staten
+Island","Stapleton - St. George",26.8666666666667
+2017,"Staten
+Island","Willowbrook",25.2933333333333
+2018,"Bronx","Crotona - Tremont",23.2133333333333
+2018,"Bronx","Fordham - Bronx Park",29.7133333333333
+2018,"Bronx","High Bridge - Morrisania",40.22
+2018,"Bronx","Hunts Point - Mott Haven",38.45
+2018,"Bronx","Kingsbridge - Riverdale",6.92666666666667
+2018,"Bronx","Northeast Bronx",12.9933333333333
+2018,"Bronx","Pelham - Throgs Neck",16.0466666666667
+2018,"Brooklyn","Bedford Stuyvesant - Crown Heights",32.4333333333333
+2018,"Brooklyn","Bensonhurst - Bay Ridge",15.8666666666667
+2018,"Brooklyn","Borough Park",15.84
+2018,"Brooklyn","Canarsie - Flatlands",28.04
+2018,"Brooklyn","Coney Island - Sheepshead Bay",12.5933333333333
+2018,"Brooklyn","Downtown - Heights - Park Slope",20.14
+2018,"Brooklyn","East Flatbush - Flatbush",29.6066666666667
+2018,"Brooklyn","East New York",23.9133333333333
+2018,"Brooklyn","Greenpoint",11.04
+2018,"Brooklyn","Sunset Park",12.2733333333333
+2018,"Brooklyn","Williamsburg - Bushwick",42.4266666666667
+2018,"Manhattan","Central Harlem - Morningside Heights",38.6066666666667
+2018,"Manhattan","Chelsea - Clinton",65.3266666666667
+2018,"Manhattan","East Harlem",36.94
+2018,"Manhattan","Gramercy Park - Murray Hill",11.6133333333333
+2018,"Manhattan","Greenwich Village - SoHo",60.5666666666667
+2018,"Manhattan","Lower Manhattan",31.8666666666667
+2018,"Manhattan","Union Square - Lower East Side",18.94
+2018,"Manhattan","Upper East Side",30.3466666666667
+2018,"Manhattan","Upper West Side",32.7133333333333
+2018,"Manhattan","Washington Heights - Inwood",42.04
+2018,"Queens","Bayside - Little Neck",2.44
+2018,"Queens","Flushing - Clearview",13.4933333333333
+2018,"Queens","Fresh Meadows",12.0466666666667
+2018,"Queens","Jamaica",14.6066666666667
+2018,"Queens","Long Island City - Astoria",39
+2018,"Queens","Ridgewood - Forest Hills",33.7533333333333
+2018,"Queens","Rockaway",11.3866666666667
+2018,"Queens","Southeast Queens",8.04666666666667
+2018,"Queens","Southwest Queens",20.96
+2018,"Queens","West Queens",16.9
+2018,"Staten
+Island","Port Richmond",16.7333333333333
+2018,"Staten
+Island","South Beach - Tottenville",11.3733333333333
+2018,"Staten
+Island","Stapleton - St. George",8.71333333333333
+2018,"Staten
+Island","Willowbrook",2.32666666666667
+2019,"Bronx","Crotona - Tremont",59.6533333333333
+2019,"Bronx","Fordham - Bronx Park",24.7933333333333
+2019,"Bronx","High Bridge - Morrisania",35.1933333333333
+2019,"Bronx","Hunts Point - Mott Haven",21.2533333333333
+2019,"Bronx","Kingsbridge - Riverdale",21.3466666666667
+2019,"Bronx","Northeast Bronx",12.4933333333333
+2019,"Bronx","Pelham - Throgs Neck",26.1533333333333
+2019,"Brooklyn","Bedford Stuyvesant - Crown Heights",27.9333333333333
+2019,"Brooklyn","Bensonhurst - Bay Ridge",13.8933333333333
+2019,"Brooklyn","Borough Park",12.3333333333333
+2019,"Brooklyn","Canarsie - Flatlands",11.4933333333333
+2019,"Brooklyn","Coney Island - Sheepshead Bay",16.76
+2019,"Brooklyn","Downtown - Heights - Park Slope",19.2866666666667
+2019,"Brooklyn","East Flatbush - Flatbush",42.9333333333333
+2019,"Brooklyn","East New York",57.5466666666667
+2019,"Brooklyn","Greenpoint",16.5066666666667
+2019,"Brooklyn","Sunset Park",22.42
+2019,"Brooklyn","Williamsburg - Bushwick",22.4333333333333
+2019,"Manhattan","Central Harlem - Morningside Heights",36.5933333333333
+2019,"Manhattan","Chelsea - Clinton",47.5266666666667
+2019,"Manhattan","East Harlem",43.9266666666667
+2019,"Manhattan","Gramercy Park - Murray Hill",35.3733333333333
+2019,"Manhattan","Greenwich Village - SoHo",42.7933333333333
+2019,"Manhattan","Lower Manhattan",30.8533333333333
+2019,"Manhattan","Union Square - Lower East Side",38.14
+2019,"Manhattan","Upper East Side",9.55333333333333
+2019,"Manhattan","Upper West Side",25.4733333333333
+2019,"Manhattan","Washington Heights - Inwood",32.1133333333333
+2019,"Queens","Bayside - Little Neck",2.17333333333333
+2019,"Queens","Flushing - Clearview",14.6733333333333
+2019,"Queens","Fresh Meadows",12.1533333333333
+2019,"Queens","Jamaica",16.8266666666667
+2019,"Queens","Long Island City - Astoria",28.6266666666667
+2019,"Queens","Ridgewood - Forest Hills",28.7466666666667
+2019,"Queens","Rockaway",12.42
+2019,"Queens","Southeast Queens",9.92666666666667
+2019,"Queens","Southwest Queens",14.1733333333333
+2019,"Queens","West Queens",17.94
+2019,"Staten
+Island","Port Richmond",23.9071428571429
+2019,"Staten
+Island","South Beach - Tottenville",2.64666666666667
+2019,"Staten
+Island","Stapleton - St. George",11.48
+2019,"Staten
+Island","Willowbrook",3.15333333333333
+2020,"Bronx","Crotona - Tremont",34.96
+2020,"Bronx","Fordham - Bronx Park",20.86
+2020,"Bronx","High Bridge - Morrisania",37.76
+2020,"Bronx","Hunts Point - Mott Haven",25.3133333333333
+2020,"Bronx","Kingsbridge - Riverdale",2.14666666666667
+2020,"Bronx","Northeast Bronx",10.2066666666667
+2020,"Bronx","Pelham - Throgs Neck",18.04
+2020,"Brooklyn","Bedford Stuyvesant - Crown Heights",26.3466666666667
+2020,"Brooklyn","Bensonhurst - Bay Ridge",2.11333333333333
+2020,"Brooklyn","Borough Park",6.43333333333333
+2020,"Brooklyn","Canarsie - Flatlands",7.83333333333333
+2020,"Brooklyn","Coney Island - Sheepshead Bay",10.8533333333333
+2020,"Brooklyn","Downtown - Heights - Park Slope",13.62
+2020,"Brooklyn","East Flatbush - Flatbush",21.62
+2020,"Brooklyn","East New York",19.2933333333333
+2020,"Brooklyn","Greenpoint",23.6
+2020,"Brooklyn","Sunset Park",14.5066666666667
+2020,"Brooklyn","Williamsburg - Bushwick",26.2666666666667
+2020,"Manhattan","Central Harlem - Morningside Heights",23.0133333333333
+2020,"Manhattan","Chelsea - Clinton",64.2466666666667
+2020,"Manhattan","East Harlem",18.4466666666667
+2020,"Manhattan","Gramercy Park - Murray Hill",19.1666666666667
+2020,"Manhattan","Greenwich Village - SoHo",64.74
+2020,"Manhattan","Lower Manhattan",21.0266666666667
+2020,"Manhattan","Union Square - Lower East Side",19.6333333333333
+2020,"Manhattan","Upper East Side",8.73333333333333
+2020,"Manhattan","Upper West Side",20.5133333333333
+2020,"Manhattan","Washington Heights - Inwood",33.1866666666667
+2020,"Queens","Bayside - Little Neck",0
+2020,"Queens","Flushing - Clearview",15.6866666666667
+2020,"Queens","Fresh Meadows",10.8666666666667
+2020,"Queens","Jamaica",14.74
+2020,"Queens","Long Island City - Astoria",20.3666666666667
+2020,"Queens","Ridgewood - Forest Hills",31.1533333333333
+2020,"Queens","Rockaway",15.5866666666667
+2020,"Queens","Southeast Queens",7.34666666666667
+2020,"Queens","Southwest Queens",15.8133333333333
+2020,"Queens","West Queens",12.9133333333333
+2020,"Staten
+Island","Port Richmond",14.24
+2020,"Staten
+Island","South Beach - Tottenville",14.2
+2020,"Staten
+Island","Stapleton - St. George",10.7466666666667
+2020,"Staten
+Island","Willowbrook",18.36
+2021,"Bronx","Crotona - Tremont",42.8066666666667
+2021,"Bronx","Fordham - Bronx Park",20.4666666666667
+2021,"Bronx","High Bridge - Morrisania",20.2133333333333
+2021,"Bronx","Hunts Point - Mott Haven",86.8416666666667
+2021,"Bronx","Kingsbridge - Riverdale",10.5333333333333
+2021,"Bronx","Northeast Bronx",24.2733333333333
+2021,"Bronx","Pelham - Throgs Neck",16.16
+2021,"Brooklyn","Bedford Stuyvesant - Crown Heights",34.1933333333333
+2021,"Brooklyn","Bensonhurst - Bay Ridge",7.34666666666667
+2021,"Brooklyn","Borough Park",13.6666666666667
+2021,"Brooklyn","Canarsie - Flatlands",12.0733333333333
+2021,"Brooklyn","Coney Island - Sheepshead Bay",15.76
+2021,"Brooklyn","Downtown - Heights - Park Slope",12.64
+2021,"Brooklyn","East Flatbush - Flatbush",27.3066666666667
+2021,"Brooklyn","East New York",26.4466666666667
+2021,"Brooklyn","Greenpoint",18.1466666666667
+2021,"Brooklyn","Sunset Park",9.49333333333333
+2021,"Brooklyn","Williamsburg - Bushwick",40.9933333333333
+2021,"Manhattan","Central Harlem - Morningside Heights",32.8133333333333
+2021,"Manhattan","Chelsea - Clinton",70.2933333333333
+2021,"Manhattan","East Harlem",23.54
+2021,"Manhattan","Gramercy Park - Murray Hill",48.82
+2021,"Manhattan","Greenwich Village - SoHo",19.9666666666667
+2021,"Manhattan","Lower Manhattan",14.5333333333333
+2021,"Manhattan","Union Square - Lower East Side",30.4
+2021,"Manhattan","Upper East Side",35.82
+2021,"Manhattan","Upper West Side",23.2333333333333
+2021,"Manhattan","Washington Heights - Inwood",24.2533333333333
+2021,"Queens","Bayside - Little Neck",0
+2021,"Queens","Flushing - Clearview",18.9333333333333
+2021,"Queens","Fresh Meadows",15.8733333333333
+2021,"Queens","Jamaica",18.2933333333333
+2021,"Queens","Long Island City - Astoria",32.8666666666667
+2021,"Queens","Ridgewood - Forest Hills",28.1066666666667
+2021,"Queens","Rockaway",11.38
+2021,"Queens","Southeast Queens",16.2133333333333
+2021,"Queens","Southwest Queens",11.3933333333333
+2021,"Queens","West Queens",15.8133333333333
+2021,"Staten
+Island","Port Richmond",11.18
+2021,"Staten
+Island","South Beach - Tottenville",19.9133333333333
+2021,"Staten
+Island","Stapleton - St. George",17.2466666666667
+2021,"Staten
+Island","Willowbrook",4.59333333333333

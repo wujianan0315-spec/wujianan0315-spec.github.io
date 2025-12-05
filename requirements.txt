@@ -1,6 +1,7 @@
 ipykernel
 pandas
 plotly
+matplotlib
 
 # needed for plotly
 nbformat
